@@ -61,10 +61,9 @@ or compete anonymously (identity/name of artist isn't revealed; only the work is
 - SIGN Art (sign-art.app)
 - OpenSea
 
-SuperRare has done a good job of creating an aesthetically appealing and well designed environment as well as decent to high quality (and demand) via a juried submission process. The downside of this is that it is exclusive and not very decentralized or democratic.
-Our approach is to offer some of the better aspects of SuperRare, like well-designed exhibit environments and aesthetics, and to try and encourage high quality content through the process of crowdsourced art criticism. However, we will remove the barrier of exclusivity and make it open to all (equal opportunity for all artists).
-Rarible has introduced a very popular highly decentralized model that gives ownership to all members, opportunities for 'dividends' and profit sharing, and recurring compensations to original artists as the work gets turned over/resold to new buyers, but has had trouble managing abuses of the system and hosts a bit of a mishmash of content (not clearly targeted).
-We like the initial core approach (especially the recurring compensation of original artists) and intend to employ a similar (but improved) model, but instead of the 'flea market' environment, we intend to divide the user experience into two distinct environments, and create a well designed art gallery or digital exhibition spaces, and a 'gamified' collectible market.
+SuperRare has done a good job of creating an aesthetically appealing and well designed environment as well as decent to high quality (and demand) via a juried submission process. The downside of this is that it is exclusive and not very decentralized or democratic.Our approach is to offer some of the better aspects of SuperRare, like well-designed exhibit environments and aesthetics, and to try and encourage high quality content through the process of crowdsourced art criticism. However, we will remove the barrier of exclusivity and make it open to all (equal opportunity for all artists).
+
+Rarible has introduced a very popular highly decentralized model that gives ownership to all members, opportunities for 'dividends' and profit sharing, and recurring compensations to original artists as the work gets turned over/resold to new buyers, but has had trouble managing abuses of the system and hosts a bit of a mishmash of content (not clearly targeted).We like the initial core approach (especially the recurring compensation of original artists) and intend to employ a similar (but improved) model, but instead of the 'flea market' environment, we intend to divide the user experience into two distinct environments, and create a well designed art gallery or digital exhibition spaces, and a 'gamified' collectible market.
 
 ### **Product Roadmap:**
 
@@ -73,9 +72,8 @@ We like the initial core approach (especially the recurring compensation of orig
 
 #### Phase 1: (First 3 months)
 
-Consult/hire experienced blockchain developer
+- Consult/hire experienced blockchain developer
  
-
 _Architecture Design, prioritizing modularity:_
 
 - Consider implementation of thick client app/UI & lightweight 'message brokering' system, REST API or RPC TBD
@@ -133,7 +131,6 @@ Reach
 
 https://www.artnome.com/news/2020/5/5/can-machine-learning-predict-the-price-of-art-at-auction 
 Icon Artnome
-
 Can Machine Learning Predict the Price of Art at Auction? — Artnome
 Note: This article was originally published in the Harvard Data Science Review on April 30th, 2020. In December of 2019 at the Art Basel Miami art fair, Italian artist Maurizio Cattelan, known for his satirical approach to art, stuck a banana to the wall with duct tape, titled the work Comedia
 
