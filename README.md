@@ -3,7 +3,7 @@ An NFT art marketplace centered around crowdsourced criticism &amp; AI/ML art id
 
 ### **Problem:**
 
-Artists and buyers have difficulty finding the proper valuation of art and NFTs. Marketplaces need to integrate the process of art criticism.
+**Artists and buyers have difficulty finding the proper valuation of art and NFTs. Marketplaces need to integrate the process of art criticism.**
 
 _This quote from Guy @CoinBureau sums up the problem well:_
 - "Unless you're buying an NFT from a well-known artist like Beeple it can be really hard to tell whether the NFT you are ogling has any real value. In theory you can check this by reviewing the sell history of that NFT to see if there's any demand for it; however many sellers are minting NFTS and then buying them from themselves using other Ethereum wallets that they own. This creates an artificial sell history and gives you the impression that the NFT you're interested in has some market value. It's basically a 'solo' version of the wash trading you see on a lot of sketchy cryptocurrency exchanges. There are also a lot of sellers on NFT marketplaces pretending to be museums and art galleries. Sometimes they're even marked as a 'verified seller' because they link to a dummy account on twitter. These fake museums and art galleries sell high quality images of semi-famous artworks they found on google as NFTS for a pretty profit. Besides the risks I just pointed out, there are a few others to keep in mind; the NFT market is clearly in a bubble and unlike the crypto market there's going to be little to no support on the way down. This is mainly because the NFT market isn't liquid and there's also no definitive way to tell what the fair value of any NFT is" -Coin Bureau;
@@ -11,7 +11,7 @@ _This quote from Guy @CoinBureau sums up the problem well:_
 
 ### **Solution:**
 
-An NFT Art marketplace centred around crowdsourced art criticism rather than exclusive juried submissions or nonsensical bidding 'wars'
+**An NFT Art marketplace centred around crowdsourced art criticism rather than exclusive juried submissions or nonsensical bidding 'wars'**
 
 CRITIQ can provide a much needed service helping buyers assess the 'fair value' of NFTs and prevent scammers from 'wash selling', selling off art owned by others, or selling over-priced art to 'naive' or uninformed buyers (who are currently flooding the market). The crowdsourced criticism and evaluation of NFT art on exhibit and/or for sale (combined/augmented with AI/ML) can pick out forgeries, expose scam artists, & establish fair valuations through the 'wisdom of the crowd'.
 
@@ -103,10 +103,10 @@ _Development of Initial MVP:_
 
 ### Budget:
 
-100 Design hrs (UI/UX/Graphic Design, Prototyping)
-200 Developer hrs
-33 Miscellaneous/Administration
-333 hrs @ 60/hr = $20000
+- 100 Design hrs (UI/UX/Graphic Design, Prototyping)
+- 200 Developer hrs
+- 33 Miscellaneous/Administration
+- 333 hrs @ 60/hr = $20000
 
 ### KPIs:
 
