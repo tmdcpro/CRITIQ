@@ -17,10 +17,9 @@ CRITIQ can provide a much needed service helping buyers assess the 'fair value' 
 
 ### **Project Description:**
 
-This project is the evolution of a previous concept originally pitched at the U of M GameChanger Pitch Contest under the working title "FRAME(D)" where it won 3rd place. The concept has since pivoted substantially and adapted for application in the NFT space, but the core value proposition remains intact. The original 
+This project is the evolution of a previous concept originally pitched at the U of M GameChanger Pitch Contest under the working title "FRAME(D)" where it won 3rd place. The concept has since pivoted substantially and adapted for application in the NFT space, but the core value proposition remains intact. 
 
-whitepaper can be found here: https://www.notion.so/taubypi/FRAME-D-A-Social-Art-Media-Platform-3fa2add5621341ccb80aec0174c19581
-Problem:
+The original whitepaper can be found here: https://www.notion.so/taubypi/FRAME-D-A-Social-Art-Media-Platform-3fa2add5621341ccb80aec0174c19581
 
 ### **Product:**
 
