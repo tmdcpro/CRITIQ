@@ -15,6 +15,7 @@ _This quote from Guy @CoinBureau sums up the problem well:_
 
 CRITIQ can provide a much needed service helping buyers assess the 'fair value' of NFTs and prevent scammers from 'wash selling', selling off art owned by others, or selling over-priced art to 'naive' or uninformed buyers (who are currently flooding the market). The crowdsourced criticism and evaluation of NFT art on exhibit and/or for sale (combined/augmented with AI/ML) can pick out forgeries, expose scam artists, & establish fair valuations through the 'wisdom of the crowd'.
 
+
 ### **Project Description:**
 
 This project is the evolution of a previous concept originally pitched at the U of M GameChanger Pitch Contest under the working title "FRAME(D)" where it won 3rd place. The concept has since pivoted substantially and adapted for application in the NFT space, but the core value proposition remains intact. 
@@ -22,6 +23,7 @@ This project is the evolution of a previous concept originally pitched at the U 
 The original whitepaper can be found here: https://www.notion.so/taubypi/FRAME-D-A-Social-Art-Media-Platform-3fa2add5621341ccb80aec0174c19581
 
 ### **Product:**
+CRITIQ is a decentralized marketplace which aims to establish a destination for artists to develop critical acclaim, offering equal opportunity for promotion and maximizing merit-based 'reward'. The platform represents a reaction to the major disconnect of the price of art to its actual value (NFT and traditional), and will encourage valuation on more relevant and equitable criteria (ie. aesthetics, beauty, form, meaning, concept/narrative, cultural significance, history, skill, work, etc.). 
 
 _Features (including future versions/development):_
 - An NFT Art marketplace based on art criticism & informed valuation of art works.
@@ -42,6 +44,7 @@ or compete anonymously (identity/name of artist isn't revealed; only the work is
 - Fractional Ownership investment & patronage opportunities
 - Digital NFT art, NFT 'Signatures' & 'Proof of Authenticity' for traditional art
 - AI/ML analysis of submitted NFT images for AI 'augmented' evaluations, and comparisons against public databases of art by known artists to inform buyers via aggregated matches and meta data of images, artists, and sellers
+- Semantic data compilation for crowdsourced criticisms, and metrics/rubrics for analysis & evaluation algorithms, etc.
 
 ### Market:
 
@@ -51,7 +54,7 @@ or compete anonymously (identity/name of artist isn't revealed; only the work is
 ### Target Customers/Users:
 
 - We intend to leverage our collective experience as previous co-founders of a local Art Gallery & FRAME Arts Warehouse; a 40,000 sf warehouse retrofit with over 40 artist's studios and residences. We have built up a community of artists both locally, and internationally that we hope to onboard to the new digital platform (and who shown an expressed interest in doing so).
-- They will be joined by our target market of emerging artists, digital artists, and critics/writers/reviewers and art journalists.
+- Our primary target market is emerging artists, digital artists, NFT (& traditional) art collectors, and critics/writers/reviewers and art journalists.
 - A secondary target market may be other NFT marketplaces as we intend to modularize our criticism technology, making it potentially available for implementation into other existing marketplaces.
 
 ### Competition/Comparables:
